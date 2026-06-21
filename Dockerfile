@@ -1,2 +1,2 @@
-FROM rssbridge/rss-bridge:latest
-EXPOSE 80
+FROM diygod/rsshub:latest
+EXPOSE 1200
